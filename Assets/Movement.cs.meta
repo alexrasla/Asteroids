@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b965158e9e6fb41e0927668914c5edc9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ship_texture: {fileID: 21300000, guid: ff91d98ad745649faa43eef9f18cae74, type: 3}
+  - gun: {fileID: 21300000, guid: f777a843de86b48b38e9c076f4da71a0, type: 3}
+  - explosionprefab: {fileID: 100000, guid: 158e34f943d2d564ca6ddfab52fe1525, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
